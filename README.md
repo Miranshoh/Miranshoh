@@ -2,7 +2,7 @@
 - 👀 I’m interested in Algorithm
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Apple
-- 📫 How to reach me t.me/Miron_Oripov
+- 📫 How to reach me t.me/Mironshoh_Oripov
 
 <!---
 Miranshoh/Miranshoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
